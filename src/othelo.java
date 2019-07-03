@@ -1,7 +1,7 @@
 //オセロ(Player1 VS Player2)
 import java.io.*;
 
-public class Osero {
+public class othelo {
 
 	public static void main(String[] args) {
 		//盤作成
